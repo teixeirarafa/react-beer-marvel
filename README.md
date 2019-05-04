@@ -2,7 +2,8 @@
 
 This project is built to demonstrate my knowledge in ReactJs and other compliment technologies such as Redux, styled-components, Material-UI.
 
-##Domain
+## Domain
+
 This app can be found at https://react-beer-marvel.herokuapp.com/
 
 ## Install
