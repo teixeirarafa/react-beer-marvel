@@ -1,3 +1,17 @@
+# Frontend Engineer Challenge
+
+This project is built to demonstrate my knowledge in ReactJs and other compliment technologies such as Redux, styled-components, Material-UI.
+
+## Install
+
+    $ git clone https://gitlab.com/teixeirarafa/react-beer-marvel.git
+    $ cd react-beer-marvel
+    $ npm install
+
+## Start & watch
+
+    $ npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
